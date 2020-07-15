@@ -1,0 +1,83 @@
+body, html {
+    position: absolute;
+}
+
+button {
+    background-color: #0255C2;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Montserrat;
+}
+
+.two {
+    width: 1440px;
+    height: 792px;
+} 
+
+h1 {
+    position: absolute;
+    width: 1269px;
+    height: 73px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 73px;
+
+    color: #FFFFFF;
+
+
+}
+
+p {
+    width: 1109px;
+    height: 100px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 41px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.one {
+    width: 450px;
+    height: 70px;
+    background: #0255C2;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.one button {
+    width: 181px;
+    height: 29px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.card-img-top {
+    width: 250px;
+    height: 250px;
+    background: #c4c4c4;
+}
+
+.card-body  {
+    width: 180px;
+    height: 41px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
